@@ -8,5 +8,6 @@ The data file can be found under the "bmi_and_life_expectancy.csv" tab in the qu
 **Life expectancy** – The average life expectancy at birth for a person in that country.\
 **BMI** – The mean BMI of males in that country.
 
+Predicting life expectancy using the model
 
 Note: The project is a part of Udacity Introduction to ML with PyTorch nanodegree
